@@ -111,3 +111,36 @@ hr {
 .row:after {
   clear: both;
 }
+
+.col {
+ position: relative;
+  min-height: 1px;
+  padding-right: .9375rem;
+  padding-left: .9375rem;
+}
+
+.row-8 .col.col-1 {
+  width: 12.5%; 
+}
+.row-8 .col.col-2 {
+  width: 25%; 
+}
+.row-8 .col.col-3 {
+  width: 37.5%; 
+}
+.row-8 .col.col-4 {
+  width: 50%; 
+}
+.row-8 .col.col-5 {
+  width: 62.5%; 
+}
+.row-8 .col.col-6 {
+  width: 75%; 
+}
+.row-8 .col.col-7 {
+  width: 87.5%; 
+}
+.row-8 .col.col-8 {
+  width: 100%; 
+}
+
