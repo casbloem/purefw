@@ -117,6 +117,7 @@ hr {
   min-height: 1px;
   padding-right: .9375rem;
   padding-left: .9375rem;
+  float: left;
 }
 
 .row-8 .col.col-1 {
@@ -143,4 +144,9 @@ hr {
 .row-8 .col.col-8 {
   width: 100%; 
 }
+
+.row-16 .col.col-1 {
+  width: 12.5%; 
+}
+/* tbc */
 
